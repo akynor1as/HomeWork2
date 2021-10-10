@@ -1,5 +1,6 @@
 # HomeWork2
 static void Main(string[] args)
+        
         {
             Console.WriteLine("Выберите одно из доступных заданий: ");
             Console.WriteLine("Задание 1.");
